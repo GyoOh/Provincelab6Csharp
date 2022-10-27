@@ -1,0 +1,46 @@
+﻿<Properties StartupConfiguration="{54E8976D-DBC0-4AC6-B1F6-2DFF3974AEAF}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/CityController.cs">
+    <Files>
+      <File FileName="appsettings.json" Line="3" Column="77" />
+      <File FileName="Models/City.cs" Line="15" Column="38" />
+      <File FileName="Models/Province.cs" Line="7" Column="26" />
+      <File FileName="Program.cs" Line="25" Column="7" />
+      <File FileName="Data/SeedData.cs" Line="19" Column="10" />
+      <File FileName="Data/ApplicationDbContext.cs" Line="26" Column="2" />
+      <File FileName="WeatherForecast.cs" Line="1" Column="23" />
+      <File FileName="Controllers/WeatherForecastController.cs" Line="1" Column="1" />
+      <File FileName="Data/Migrations/20221025153547_M1.cs" Line="1" Column="1" />
+      <File FileName="Data/Migrations/ApplicationDbContextModelSnapshot.cs" Line="1" Column="1" />
+      <File FileName="Controllers/ProvinceController.cs" Line="31" Column="44" />
+      <File FileName="Controllers/CityController.cs" Line="35" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="provinceCity" expanded="True">
+            <Node name="provinceCity" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="CityController.cs" selected="True" />
+              </Node>
+              <Node name="Data" expanded="True">
+                <Node name="Migrations" expanded="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.provinceCity PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
